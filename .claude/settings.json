@@ -1,4 +1,17 @@
 {
+  "permissions": {
+    "allow": [
+      "mcp__heptabase-mcp__get_journal_range",
+      "mcp__heptabase-mcp__append_to_journal",
+      "mcp__heptabase-mcp__get_object",
+      "mcp__heptabase-mcp__get_pdf_pages",
+      "mcp__heptabase-mcp__get_whiteboard_with_objects",
+      "mcp__heptabase-mcp__save_to_note_card",
+      "mcp__heptabase-mcp__search_pdf_content",
+      "mcp__heptabase-mcp__search_whiteboards",
+      "mcp__heptabase-mcp__semantic_search_objects"
+    ]
+  },
   "hooks": {
     "SessionStart": [
       {
