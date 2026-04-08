@@ -9,7 +9,11 @@
       "mcp__heptabase-mcp__save_to_note_card",
       "mcp__heptabase-mcp__search_pdf_content",
       "mcp__heptabase-mcp__search_whiteboards",
-      "mcp__heptabase-mcp__semantic_search_objects"
+      "mcp__heptabase-mcp__semantic_search_objects",
+      "Bash(git pull:*)"
+    ],
+    "additionalDirectories": [
+      "/Users/alfred/thinking-models/.claude/skills"
     ]
   },
   "hooks": {

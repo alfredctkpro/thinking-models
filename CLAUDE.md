@@ -34,6 +34,22 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - 模型之間透過相對路徑互相連結（見 `相關模型` 區段）
 - 主要來源標記為 `萬維鋼・得到`
 
+## LLM Wiki 操作
+
+參考 [Karpathy LLM Wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f) 模式，本專案支援三個核心操作：
+
+### Ingest（`/ingest`）
+將筆記或素材整理成結構化模型。使用者提供口述、草稿或 raw material，Claude 自動建立模型檔、更新索引、補上交叉連結、記錄到 log.md。
+
+### Query（`/query`）
+搜尋知識庫回答問題。搜尋範圍涵蓋 models/、journal/、inbox/、whiteboard/，回答時引用來源檔案。
+
+### Lint（`/lint`）
+知識庫健檢。掃描孤立頁面、空白區段、索引不一致、交叉連結建議、frontmatter 完整性，產出結構化報告。
+
+### log.md
+Append-only 時間序紀錄，記錄所有 ingest/query/lint 操作歷程。格式：`## [YYYY-MM-DD] 操作類型 | 標題`
+
 ## 自動化
 
 - SessionStart hook 會自動 `git pull --ff-only` 同步最新內容
