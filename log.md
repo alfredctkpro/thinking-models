@@ -119,3 +119,11 @@ Append-only 時間序紀錄，記錄所有 ingest、query、lint 操作。
 - 更新索引：models/_index.md
 - 來源：萬維鋼・得到《現代思維工具 100 講》（OODA 由 John Boyd 提出）
 - 交叉連結：思維系統四元素、貝葉斯先驗、訊息價值、超級預測、反脆弱、認知解耦、探索與利用
+
+## [2026-05-04] ingest | 認知負荷理論
+
+- 新增模型：models/學習教育/認知負荷理論.md（學習教育分類第一篇）
+- 更新索引：models/_index.md
+- 新增反向連結：models/成長戰略/主動高認知負荷.md
+- 來源：萬維鋼・得到《現代思維工具 100 講》（背後是 John Sweller 的 Cognitive Load Theory）
+- 交叉連結：主動高認知負荷、思維系統四元素、訊息價值、認知解耦、WOOP
