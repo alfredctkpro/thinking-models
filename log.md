@@ -135,3 +135,10 @@ Append-only 時間序紀錄，記錄所有 ingest、query、lint 操作。
 - 新增反向連結：models/學習教育/認知負荷理論.md
 - 來源：萬維鋼・得到《現代思維工具 100 講》（季清華 Michelene Chi 提出）
 - 交叉連結：認知負荷理論、主動高認知負荷、思維系統四元素、訊息價值、WOOP
+
+## [2026-05-11] ingest | 刻意練習
+
+- 新增模型：models/學習教育/刻意練習.md
+- 更新索引：models/_index.md
+- 來源：萬維鋼・得到《現代思維工具 100 講》（Anders Ericsson 的 Deliberate Practice）
+- 交叉連結：探索與利用、賽道選擇、ICAP框架、認知負荷理論、主動高認知負荷、重尾
