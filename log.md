@@ -142,3 +142,10 @@ Append-only 時間序紀錄，記錄所有 ingest、query、lint 操作。
 - 更新索引：models/_index.md
 - 來源：萬維鋼・得到《現代思維工具 100 講》（Anders Ericsson 的 Deliberate Practice）
 - 交叉連結：探索與利用、賽道選擇、ICAP框架、認知負荷理論、主動高認知負荷、重尾
+
+## [2026-05-12] ingest | 表徵・圖式・心智模型・解釋框架
+
+- 新增模型：models/學習教育/表徵圖式心智模型解釋框架.md
+- 更新索引：models/_index.md
+- 來源：萬維鋼・得到《現代思維工具 100 講》
+- 交叉連結：認知負荷理論、刻意練習、ICAP框架、思維系統四元素、貝葉斯先驗、訊息價值
