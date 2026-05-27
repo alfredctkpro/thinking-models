@@ -206,3 +206,10 @@ Append-only 時間序紀錄，記錄所有 ingest、query、lint 操作。
 - 更新索引：models/_index.md
 - 來源：萬維鋼・得到《現代思維工具 100 講》（涉及 Naval Ravikant 的 Permissionless Leverage）
 - 交叉連結：經濟租、Alpha、重尾、場域理論、默認知識、社交資本與結構洞、探索與利用、反脆弱、期權
+
+## [2026-05-26] ingest | 機會窗口——主導類別開啟、主導設計鎖死之間的黃金時期
+
+- 新增模型：models/財富增值/機會窗口.md
+- 更新索引：models/_index.md
+- 來源：萬維鋼・得到《現代思維工具 100 講》（背後涉及 Utterback & Abernathy 的 Dominant Design 與 Geoffrey Moore 的 Crossing the Chasm）
+- 交叉連結：經濟租、Alpha、商業槓桿、重尾、探索與利用、場域理論、賽道選擇、反脆弱、期權、訊息價值、默認知識、OODA循環
