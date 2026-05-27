@@ -213,3 +213,10 @@ Append-only 時間序紀錄，記錄所有 ingest、query、lint 操作。
 - 更新索引：models/_index.md
 - 來源：萬維鋼・得到《現代思維工具 100 講》（背後涉及 Utterback & Abernathy 的 Dominant Design 與 Geoffrey Moore 的 Crossing the Chasm）
 - 交叉連結：經濟租、Alpha、商業槓桿、重尾、探索與利用、場域理論、賽道選擇、反脆弱、期權、訊息價值、默認知識、OODA循環
+
+## [2026-05-27] ingest | 效果推理——從手中之鳥到駕駛艙裡的飛行員
+
+- 新增模型：models/財富增值/效果推理.md
+- 更新索引：models/_index.md
+- 來源：萬維鋼・得到《現代思維工具 100 講》（Saras Sarasvathy 的 Effectuation Theory）
+- 交叉連結：機會窗口、經濟租、Alpha、商業槓桿、反脆弱、OODA循環、期權、凱利公式、探索與利用、訊息價值、認知解耦、默認知識、社交資本與結構洞
