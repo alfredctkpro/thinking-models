@@ -220,3 +220,19 @@ Append-only 時間序紀錄，記錄所有 ingest、query、lint 操作。
 - 更新索引：models/_index.md
 - 來源：萬維鋼・得到《現代思維工具 100 講》（Saras Sarasvathy 的 Effectuation Theory）
 - 交叉連結：機會窗口、經濟租、Alpha、商業槓桿、反脆弱、OODA循環、期權、凱利公式、探索與利用、訊息價值、認知解耦、默認知識、社交資本與結構洞
+
+## [2026-05-28] ingest | 沃德利地圖——讓努力具備地形感
+
+- 新增模型：models/財富增值/沃德利地圖.md
+- 更新索引：models/_index.md
+- 來源：Simon Wardley《Wardley Mapping》（非萬維鋼來源）
+- 含使用者個人業務反思（B2B 網站全權代管服務的價值定位）
+- 交叉連結：經濟租、機會窗口、效果推理、商業槓桿、Alpha、場域理論、賽道選擇、探索與利用、默認知識
+
+## [2026-05-29] ingest | 鮑莫爾成本——為什麼服務越來越貴
+
+- 新增模型：models/財富增值/鮑莫爾成本.md
+- 更新索引：models/_index.md
+- 來源：William Baumol & William Bowen（1965，Baumol's Cost Disease，非萬維鋼來源）
+- 含使用者個人業務反思（用 iPAS、資安認證、ISO 27001/27701 建立進入壁壘）
+- 交叉連結：經濟租、商業槓桿、沃德利地圖、默認知識、效果推理、機會窗口、Alpha、賽道選擇
